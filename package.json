@@ -1,0 +1,20 @@
+{
+  "name": "com.saadnkhawaja.instant-audiotools",
+  "version": "1.0.0",
+  "displayName": "Instant Audio Tools",
+  "description": "Editor utilities for audio workflow improvements in Unity, including volume tools, validation, WAV utilities, and editor resources.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Saad Khawaja",
+    "url": "https://github.com/saadnkhawaja"
+  },
+  "keywords": [
+    "audio",
+    "tools",
+    "editor",
+    "wav",
+    "utilities",
+    "workflow",
+    "unity"
+  ]
+}
